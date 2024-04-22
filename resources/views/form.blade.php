@@ -14,7 +14,7 @@
                     newRow.className = "border-b border-dashed last:border-b-0";
                     var columnsContent = [
                         {
-                            content: "#",
+                            content: "#3",
                             class: "p-3 pl-0"
                         },
                         {
@@ -26,12 +26,12 @@
                             class: "p-3 pr-0"
                         },
                         {
-                            content: "<div class='mb-4 flex items-center'><input type='text' name='name' placeholder='Ketikan signa ...' class='w-full rounded-md py-2.5 px-4 border text-sm outline-[#007bff]'></div>1X SEHARI 0.5 TABLET (MALAM)",
+                            content: "<div class='mb-4 flex items-center'><input type='text' name='signa' placeholder='Ketikan signa ...' class='w-full rounded-md py-2.5 px-4 border text-sm outline-[#007bff]'></div>1X SEHARI 0.5 TABLET (MALAM)",
                             class: "p-3 pr-12"
                         },
                         {
-                            content: "12",
-                            class: "pr-0 text-start"
+                            content: "<div class='mb-4 flex items-center'><input type='number' name ='qty' placeholder='Ketikan qty ...' class='w-full rounded-md py-2.5 px-4 border text-sm outline-[#007bff]'/></div><div class='inline-flex items-center px-3 py-1 rounded-full gap-x-2 text-emerald-500 bg-emerald-100/60 dark:bg-gray-800'><svg width='12' height='12' viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M10 3L4.5 8.5L2 6' stroke='currentColor' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/></svg><h2 class='text-sm font-normal'>Stok : 999</h2></div>",
+                            class: "p-3 pr-12"
                         }
                     ];
                     columnsContent.forEach(function(column) {
