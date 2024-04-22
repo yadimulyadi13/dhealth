@@ -1,0 +1,13 @@
+Note : 
+Mockup form dapat di lihat/open pada web https://draw.io/ dengan nama file : mockup-form-e-prescription.drawio
+
+Planning development (TODO) : 
+1. Create API : GET data obatalkes_m & GET data signa_m, untuk di konsumsi pada select data obat dan signa pada mockup.
+2. Create Table E-Prescription (utk menyimpan data resep), Table E-Prescription Detail (utk menyimpan grouping type racikan / non racikan) & Table E-Prescription Detail Obat (utk menyimpan item obat grouping dari type racikan / non racikan).
+3. Create docs API menggunakan standarisasi OPEN API (json file).
+4. Validation diterapkan 2 sisi baik dari client menggunakan javascript/jquery dan server dari API POST E-Prescription.
+5. Implementasi metode/unit test REST API menggunakan : https://laravel.com/docs/11.x/http-tests
+6. Technical develop REST API :
+ - Request DTO mengimplementasikan dari docs : https://laravel.com/docs/11.x/requests (Validation etc terkait data request dari client.)
+ - Response DTO mengimplementasikan dari docs : https://laravel.com/docs/11.x/eloquent-resources (Transform layer terkait standarisasi response kepada client.)
+7. Dalam melaksanakan proses versioning code menggunakan GIT, mengimplementasikan standarisasi commit menggunakan : https://www.conventionalcommits.org/en/v1.0.0/

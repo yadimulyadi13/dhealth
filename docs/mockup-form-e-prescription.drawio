@@ -1,0 +1,313 @@
+<mxfile host="app.diagrams.net" modified="2024-04-20T03:36:36.353Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ofxKXJjo0w4fvVu4GWfj" version="23.1.3" type="device">
+  <diagram name="Page-1" id="zzb9u3ysQnTIQCkRIOMk">
+    <mxGraphModel dx="1257" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eagDC129Zi2MAZH6FZlT-19" value="Ketikan nama obat..." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="394" y="310" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-20" value="Tambah" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=14;" vertex="1" parent="1">
+          <mxGeometry x="696" y="310" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-21" value="Racikan" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;strokeColor=#A6A6A6;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="616" y="325" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-47" value="Nama (Racikan)" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="21" y="647" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-48" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="171" y="647" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-53" value="RACIKAN #1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="35" y="597" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-54" value="Ketikan nama obat..." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="483" y="587" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-55" value="Tambah" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=14;" vertex="1" parent="1">
+          <mxGeometry x="696" y="587" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-63" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="31" y="722" width="790" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-109" value="No" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="21" y="687" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-110" value="Kode" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="87" y="687" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-111" value="Nama" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="197" y="687" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-112" value="Keterangan" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="462" y="687" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-113" value="QTY" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="711" y="687" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-114" value="#1" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="22" y="732" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-115" value="ALK00000614" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="76" y="732" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-116" value="KASSA NON-XRAY 10 CM X 10 CM" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="183" y="732" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-118" value="1X SEHARI 0.5 TABLET (MALAM)" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=11;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="464" y="732" width="227" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-119" value="" style="shape=triangle;direction=south;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-118">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-120" value="" style="shape=triangle;direction=north;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-118">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-121" value="2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="711" y="731" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-122" value="Stok : 200" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="751" y="740" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-123" value="Hapus" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="391" y="736" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-124" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-trash-outline-128.png;fontColor=none;labelBorderColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="738" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-125" value="#2" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="22" y="785" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-126" value="ALK00000776" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="76" y="785" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-127" value="POLYSORB 1 CL905" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="183" y="785" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-128" value="2X SEHARI 4 KAPSUL" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=11;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="464" y="785" width="227" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-129" value="" style="shape=triangle;direction=south;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-128">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-130" value="" style="shape=triangle;direction=north;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-128">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-131" value="10" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="711" y="784" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-132" value="Stok : 40" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="751" y="793" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-133" value="Hapus" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="391" y="789" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-134" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-trash-outline-128.png;fontColor=none;labelBorderColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="791" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-137" value="NON RACIKAN" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="35" y="366" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-140" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="31" y="442" width="790" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-141" value="No" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="21" y="407" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-142" value="Kode" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="87" y="407" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-143" value="Nama" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="197" y="407" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-144" value="Keterangan" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="462" y="407" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-145" value="QTY" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="711" y="407" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-146" value="#1" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="22" y="452" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-147" value="ALK00000614" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="76" y="452" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-148" value="KASSA NON-XRAY 10 CM X 10 CM" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="183" y="452" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-149" value="1X SEHARI 0.5 TABLET (MALAM)" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=11;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="464" y="452" width="227" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-150" value="" style="shape=triangle;direction=south;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-149">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-151" value="" style="shape=triangle;direction=north;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-149">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-152" value="2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="711" y="451" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-153" value="Stok : 200" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="751" y="460" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-154" value="Hapus" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="391" y="456" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-155" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-trash-outline-128.png;fontColor=none;labelBorderColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="458" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-156" value="#2" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="22" y="505" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-157" value="ALK00000776" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="76" y="505" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-158" value="POLYSORB 1 CL905" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="183" y="505" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-159" value="2X SEHARI 4 KAPSUL" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=11;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="464" y="505" width="227" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-160" value="" style="shape=triangle;direction=south;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-159">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-161" value="" style="shape=triangle;direction=north;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-159">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-162" value="10" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="711" y="504" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-163" value="Stok : 40" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="751" y="513" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-164" value="Hapus" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="391" y="509" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-165" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-trash-outline-128.png;fontColor=none;labelBorderColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="511" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-166" value="Nama (Racikan)" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="21" y="933" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-167" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="171" y="933" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-168" value="RACIKAN #2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="35" y="883" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-169" value="Ketikan nama obat..." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="483" y="873" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-170" value="Tambah" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=14;" vertex="1" parent="1">
+          <mxGeometry x="696" y="873" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-171" value="" style="shape=line;strokeWidth=2;html=1;strokeColor=#DFE1E5;resizeWidth=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="31" y="1008" width="790" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-172" value="No" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="21" y="973" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-173" value="Kode" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="87" y="973" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-174" value="Nama" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="197" y="973" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-175" value="Keterangan" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="462" y="973" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-176" value="QTY" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="711" y="973" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-177" value="#1" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="22" y="1018" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-178" value="ALK00000614" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1018" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-179" value="KASSA NON-XRAY 10 CM X 10 CM" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="183" y="1018" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-180" value="1X SEHARI 0.5 TABLET (MALAM)" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=11;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="464" y="1018" width="227" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-181" value="" style="shape=triangle;direction=south;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-180">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-182" value="" style="shape=triangle;direction=north;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-180">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-183" value="2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="711" y="1017" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-184" value="Stok : 200" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="751" y="1026" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-185" value="Hapus" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="391" y="1022" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-186" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-trash-outline-128.png;fontColor=none;labelBorderColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1024" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-187" value="#2" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="22" y="1071" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-188" value="ALK00000776" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="76" y="1071" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-189" value="POLYSORB 1 CL905" style="strokeColor=none;fillColor=none;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="183" y="1071" width="208" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-190" value="2X SEHARI 4 KAPSUL" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#ffffff;strokeColor=#CED4DA;align=left;spacing=15;fontSize=11;fontColor=#6C767D;" vertex="1" parent="1">
+          <mxGeometry x="464" y="1071" width="227" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-191" value="" style="shape=triangle;direction=south;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-190">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-192" value="" style="shape=triangle;direction=north;fillColor=#343A40;strokeColor=none;perimeter=none;" vertex="1" parent="eagDC129Zi2MAZH6FZlT-190">
+          <mxGeometry x="1" y="0.5" width="7" height="3" relative="1" as="geometry">
+            <mxPoint x="-17" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-193" value="10" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;fillColor=#ffffff;fontColor=#777777;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=11;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="711" y="1070" width="36" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-194" value="Stok : 40" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="751" y="1079" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-195" value="Hapus" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=right;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=9;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="391" y="1075" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-196" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-trash-outline-128.png;fontColor=none;labelBorderColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1077" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="eagDC129Zi2MAZH6FZlT-197" value="Submit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;fillColor=#0085FC;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;spacing=14;" vertex="1" parent="1">
+          <mxGeometry x="694" y="1194" width="125" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
